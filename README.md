@@ -67,7 +67,7 @@ class WOFComputerPlayer(WOFPlayer):
 
 ```
 
-### Issues
+### Issues..?
 [Report Issue](https://github.com/RajasekharGuptha/Python-Classes-and-Inheritance-Coursera/issues)
 
 ### Contact
