@@ -1,5 +1,3 @@
-## Wheel Of Fortune,Python Classes and Inheritance 
-
 This is code for [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance/home/welcome) Courser's course Final Project **Wheel Of Fortune**
 
 ```python
