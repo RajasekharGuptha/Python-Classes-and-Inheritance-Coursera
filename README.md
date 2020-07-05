@@ -1,4 +1,4 @@
-## Hello There,
+## Wheel Of Fortune,Python Classes and Inheritance 
 
 This is code for [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance/home/welcome) Courser's course Final Project **Wheel Of Fortune**
 
@@ -72,4 +72,6 @@ class WOFComputerPlayer(WOFPlayer):
 
 ### Contact
 
-[Mail](mailto:rajasekharmuppidi4@gmail.com)
+[Mail](mailto:rajasekharmuppidi4@gmail.com)  
+[Github](https://github.com/RajasekharGuptha)  
+[Medium](https://medium.com/@rajasekharmuppidi4)
